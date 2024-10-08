@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Khushi-1803/passwordgenerator/static/css/main.bff8514b.css",
+    "main.js": "/Khushi-1803/passwordgenerator/static/js/main.45b02736.js",
+    "static/js/453.2b6641c3.chunk.js": "/Khushi-1803/passwordgenerator/static/js/453.2b6641c3.chunk.js",
+    "index.html": "/Khushi-1803/passwordgenerator/index.html",
+    "main.bff8514b.css.map": "/Khushi-1803/passwordgenerator/static/css/main.bff8514b.css.map",
+    "main.45b02736.js.map": "/Khushi-1803/passwordgenerator/static/js/main.45b02736.js.map",
+    "453.2b6641c3.chunk.js.map": "/Khushi-1803/passwordgenerator/static/js/453.2b6641c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bff8514b.css",
+    "static/js/main.45b02736.js"
+  ]
+}
